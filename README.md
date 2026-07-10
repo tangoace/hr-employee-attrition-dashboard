@@ -7,9 +7,18 @@ The goal of the project is to identify trends in employee turnover and present t
 
 ---
 
+## Project Objectives
+
+- Analyze employee attrition trends.
+- Compare attrition across departments, gender, job roles, age groups, overtime, and income.
+- Build an interactive Excel dashboard using Pivot Tables and Pivot Charts.
+- Present key HR metrics through KPI cards.
+
+---
+
 ## Dashboard Preview
 
-*(Dashboard screenshot will be added here after uploading.)*
+![HR Employee Attrition Dashboard](dashboard.png)
 
 ---
 
@@ -48,13 +57,14 @@ The goal of the project is to identify trends in employee turnover and present t
 
 - Pivot Tables
 - Pivot Charts
-- Slicers
-- KPI Cards
-- COUNTIFS
-- AVERAGE
-- Excel Formatting
-- Dashboard Design
+- KPI Dashboard Design
 - Data Cleaning
+- Exploratory Data Analysis (EDA)
+- COUNTIF / COUNTIFS
+- AVERAGE
+- Cell Formatting
+- Conditional Formatting
+- Data Visualization
 
 ---
 
@@ -85,6 +95,14 @@ The goal of the project is to identify trends in employee turnover and present t
 
 ---
 
+## Files Included
+
+- HR_Employee_Attrition_Analysis.xlsx
+- dashboard.png
+- README.md
+  
+---
+
 ## Tools Used
 
 - Microsoft Excel
@@ -93,5 +111,8 @@ The goal of the project is to identify trends in employee turnover and present t
 - GitHub
 
 ---
+
+## License
+This project is for educational and portfolio purposes.
 
 Created by **Tahmid Ahmed Adib**
